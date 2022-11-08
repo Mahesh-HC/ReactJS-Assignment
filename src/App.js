@@ -1,4 +1,4 @@
-/* 
+/* */
 //problem 01 and 03
 import React from "react"
 import './App.css'
@@ -24,10 +24,10 @@ function App() {
 }
 
 export default App;
-*/
 
 
-/**/
+
+/*
 // problem02
 import './App.css';
 import Navbar from './Problem02/Navbar';
@@ -54,7 +54,7 @@ function App() {
   );
 }
 export default App;
-
+*/
 
 /*
 // for normal view
